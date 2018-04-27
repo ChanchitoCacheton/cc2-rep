@@ -1,0 +1,16 @@
+#include <iostream>
+
+using namespace std;
+
+void swap(int *x,int *y){
+    int aux=*x;
+    *x=*y;
+    *y=aux;
+}
+
+int main(){
+
+
+
+    return 0;
+}
